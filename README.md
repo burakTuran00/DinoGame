@@ -2,7 +2,7 @@
 
 I made the Google Dino Game.
 I used the Unity Editor and C# for coding.
-I want to explain the What I did.
+I want to explain  What I did.
 
 -Player Movement with CharacterController.
 -Player Animation.
